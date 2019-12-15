@@ -1,0 +1,33 @@
+.img-thumbnail {
+    margin: 25px;
+    width: 85%;
+    height: 85%;
+}
+
+.card-body {
+    padding: 0 25px;
+}
+
+.card-footer {
+    padding: 10px 15px;
+    background-color: #fff;
+    border-top: none;
+}
+
+.formcontrol {
+    padding-left: 15px;
+    padding-right: 5px;
+    padding-top: 10px;
+}
+
+h4 {
+    padding-top: 10px; 
+    padding-bottom: 5px;
+}
+
+.form-control {
+    padding-right: 12px;
+    border-right-width: 1px;
+    margin-right: 20px;
+    margin-left: 5px;
+}
